@@ -1,6 +1,6 @@
 # Ever Forecast
 
-Android Weather app made with kotlin and the OpenWeatherMap API in Android Studio.
+Android Weather app made with Kotlin and the OpenWeatherMap API in Android Studio.
 In progress.
 
 # Preview
