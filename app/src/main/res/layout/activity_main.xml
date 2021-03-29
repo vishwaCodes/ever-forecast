@@ -348,7 +348,7 @@
                     </Space>
                     <TextView
                         android:textSize="12sp"
-                        android:text="Info"
+                        android:text="Created by"
                         android:textColor="@android:color/white"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content">
@@ -357,7 +357,7 @@
                     <TextView
                         android:id="@+id/info"
                         android:textSize="14sp"
-                        android:text="5:30am"
+                        android:text="Vishwa"
                         android:textColor="@android:color/white"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content">
@@ -375,5 +375,23 @@
 
 
     </RelativeLayout>
+    <ProgressBar
+        android:id="@+id/loader"
+        android:layout_centerInParent="true"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    </ProgressBar>
+    <TextView
+        android:id="@+id/errorText"
+        android:layout_centerInParent="true"
+        android:text="Something went wrong"
+        android:textColor="@android:color/white"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    </TextView>
 
 </RelativeLayout>
