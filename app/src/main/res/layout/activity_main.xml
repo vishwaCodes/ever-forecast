@@ -205,7 +205,7 @@
                     <ImageView
                         android:layout_width="25dp"
                         android:layout_height="25dp"
-                        android:src="@drawable/sunrise">
+                        android:src="@drawable/wind">
 
                     </ImageView>
                     <Space android:layout_height="wrap_content"
@@ -214,14 +214,14 @@
                     </Space>
                     <TextView
                         android:textSize="12sp"
-                        android:text="Sunrise"
+                        android:text="Wind"
                         android:textColor="@android:color/white"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content">
 
                     </TextView>
                     <TextView
-                        android:id="@+id/sunrise"
+                        android:id="@+id/wind"
                         android:textSize="14sp"
                         android:text="5:30am"
                         android:textColor="@android:color/white"
@@ -255,7 +255,7 @@
                     <ImageView
                         android:layout_width="25dp"
                         android:layout_height="25dp"
-                        android:src="@drawable/sunrise">
+                        android:src="@drawable/pressure">
 
                     </ImageView>
                     <Space android:layout_height="wrap_content"
@@ -264,14 +264,14 @@
                     </Space>
                     <TextView
                         android:textSize="12sp"
-                        android:text="Sunrise"
+                        android:text="Pressure"
                         android:textColor="@android:color/white"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content">
 
                     </TextView>
                     <TextView
-                        android:id="@+id/sunrise"
+                        android:id="@+id/pressure"
                         android:textSize="14sp"
                         android:text="5:30am"
                         android:textColor="@android:color/white"
@@ -297,7 +297,7 @@
                     <ImageView
                         android:layout_width="25dp"
                         android:layout_height="25dp"
-                        android:src="@drawable/sunrise">
+                        android:src="@drawable/humidity">
 
                     </ImageView>
                     <Space android:layout_height="wrap_content"
@@ -306,14 +306,14 @@
                     </Space>
                     <TextView
                         android:textSize="12sp"
-                        android:text="Sunrise"
+                        android:text="Humidity"
                         android:textColor="@android:color/white"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content">
 
                     </TextView>
                     <TextView
-                        android:id="@+id/sunrise"
+                        android:id="@+id/humidity"
                         android:textSize="14sp"
                         android:text="5:30am"
                         android:textColor="@android:color/white"
@@ -339,7 +339,7 @@
                     <ImageView
                         android:layout_width="25dp"
                         android:layout_height="25dp"
-                        android:src="@drawable/sunrise">
+                        android:src="@drawable/info">
 
                     </ImageView>
                     <Space android:layout_height="wrap_content"
@@ -348,14 +348,14 @@
                     </Space>
                     <TextView
                         android:textSize="12sp"
-                        android:text="Sunrise"
+                        android:text="Info"
                         android:textColor="@android:color/white"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content">
 
                     </TextView>
                     <TextView
-                        android:id="@+id/sunrise"
+                        android:id="@+id/info"
                         android:textSize="14sp"
                         android:text="5:30am"
                         android:textColor="@android:color/white"
