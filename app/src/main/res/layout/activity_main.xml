@@ -125,9 +125,27 @@
                         android:src="@drawable/sunrise">
 
                     </ImageView>
-                    <Space>
+                    <Space android:layout_height="wrap_content"
+                        android:layout_width="5dp">
 
                     </Space>
+                    <TextView
+                        android:textSize="12sp"
+                        android:text="Sunrise"
+                        android:textColor="@android:color/white"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                    </TextView>
+                    <TextView
+                        android:id="@+id/sunrise"
+                        android:textSize="14sp"
+                        android:text="5:30am"
+                        android:textColor="@android:color/white"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content">
+
+                    </TextView>
 
                 </LinearLayout>
             </LinearLayout>
