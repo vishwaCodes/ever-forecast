@@ -39,8 +39,17 @@
                 android:layout_height="wrap_content">
 
             </TextView>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/overviewContainer"
+            android:orientation="vertical"
+            android:layout_centerInParent="true"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
 
         </LinearLayout>
+
 
     </RelativeLayout>
 
